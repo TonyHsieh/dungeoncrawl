@@ -1,0 +1,4 @@
+run="cargo run"
+language="Rust"
+onBoot="echo Starting Rust Now!"
+
